@@ -101,7 +101,7 @@ footer {
     margin-bottom: 1em;
 }
 
-@media only screen and (max-device-width: 400px) {
+@media only screen and (max-device-width: 420px) {
     .formContainer {
        float:none;
        margin: auto;
